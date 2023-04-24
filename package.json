@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-sych-fsd",
-  "version": "0.0.8",
+  "name": "eslint-plugin-evgen-fsd",
+  "version": "0.0.1",
   "description": "plugin for production project",
   "keywords": [
     "eslint",
