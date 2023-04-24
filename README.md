@@ -1,4 +1,4 @@
-# eslint-plugin-ulbi-tv-plugin
+# eslint-plugin-sych-fsd
 
 plugin for production project
 
@@ -10,20 +10,20 @@ You'll first need to install [ESLint](https://eslint.org/):
 npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-ulbi-tv-plugin`:
+Next, install `eslint-plugin-sych-fsd`:
 
 ```sh
-npm install eslint-plugin-ulbi-tv-plugin --save-dev
+npm install eslint-plugin-sych-fsd --save-dev
 ```
 
 ## Usage
 
-Add `ulbi-tv-plugin` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `sych-fsd` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
     "plugins": [
-        "ulbi-tv-plugin"
+        "sych-fsd"
     ]
 }
 ```
