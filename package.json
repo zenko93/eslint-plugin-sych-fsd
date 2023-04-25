@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-evgen-fsd",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "plugin for production project",
   "keywords": [
     "eslint",
@@ -14,6 +14,7 @@
     "test": "mocha tests --recursive"
   },
   "dependencies": {
+    "micromatch": "^4.0.5",
     "requireindex": "^1.2.0"
   },
   "devDependencies": {
